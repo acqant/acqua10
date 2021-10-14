@@ -1,4 +1,4 @@
-- [] Install Docker
+[] Install Docker
 - [] Download, Update and Run a Ubuntu Image
 - [] Setup Atom or a Visual Stuido ( if you have school license ) to connect to Docker instance
 - [] Make a new repo in github
